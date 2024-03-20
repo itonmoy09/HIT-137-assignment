@@ -1,1 +1,3 @@
 # HIT-137-assignment
+#Title: Python's Influence on Image Processing Models in Artificial Intelligence
+Introduction: Python's simplicity, adaptation and rich ecosystem of libraries and frameworks have made it a cornerstone in the field of Artificial intelligence (AI) development. This paper explores the role that python plays in the field of image processing models, with a specific emphasis on Generative Adversarial networks (GANs) and Convolutional Neutral Networks(CNNs). We will look at their uses, the effects they have on society, moral issues, and the resources and available to help them grow. 
